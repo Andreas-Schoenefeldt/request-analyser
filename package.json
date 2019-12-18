@@ -1,0 +1,22 @@
+{
+  "name": "request-analyser",
+  "version": "1.0.0",
+  "description": "To analyse and bundle request logs from websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andreas-Schoenefeldt/request-analyser.git"
+  },
+  "author": "“Andreas <“schoenefeldt.andreas@gmail.com”> (https://github.com/Andreas-Schoenefeldt)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andreas-Schoenefeldt/request-analyser/issues"
+  },
+  "homepage": "https://github.com/Andreas-Schoenefeldt/request-analyser#readme",
+  "dependencies": {
+    "tldjs": "^2.3.1"
+  }
+}
